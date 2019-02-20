@@ -1,9 +1,9 @@
-# awesome-libretype
+# Awesome Libretype
 A curated list of OFL fonts and resources.
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
-## Table of contents
+## Table of Contents
 
 - [Top 10 Typefaces](top-10-typefaces)
 - [Typefaces](#Typefaces)
